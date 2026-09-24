@@ -26,11 +26,11 @@ This portfolio is designed to:
   Scripts and configurations for ROG Ally X and Apex Legends to enhance performance and streamline gameplay.  
   *Impact: Improved FPS stability and reduced latency for competitive play.*
 
-- ** ABDR Trading Signals (Personal Project)**
+- **ABDR Trading Signals (Personal Project)**
   Combines technical indicators with dynamic support/resistance levels to identify trade setups across multiple pairs. It implements two distinct models:
-Precision Entry Model – strict, high‑conviction signals using EMA, candle confirmation, and volume filters with tighter risk/reward ratios.
-Adaptive Entry Model – looser tolerance signals with relaxed volume rules, designed to capture more opportunities while maintaining structured risk controls.
-The system fetches live market data from Binance, evaluates conditions in real time, and sends formatted alerts to Discord via webhook integration. Backtesting modules are included to measure performance metrics such as Sharpe ratio, drawdown, profit factor, and win rate across different strategies.
+  Precision Entry Model – strict, high‑conviction signals using EMA, candle confirmation, and volume filters with tighter risk/reward ratios.
+  Adaptive Entry Model – looser tolerance signals with relaxed volume rules, designed to capture more opportunities while maintaining structured risk controls.
+  The system fetches live market data from Binance, evaluates conditions in real time, and sends formatted alerts to Discord via webhook integration. Backtesting modules are included to measure performance metrics such as Sharpe ratio, drawdown, profit factor, and win rate across different strategies.
 
 ---
 
