@@ -14,11 +14,11 @@ This portfolio is designed to:
 ---
 
 ## 📌 Featured Projects
-- **Genie (RealPage)**  
+- **Case Intelligent Workspace (RealPage)**  
   AI-powered CRM workspace integrated with Salesforce. Helps agents prioritize cases, surface account health signals, and resolve issues faster.  
   *Impact: Reduced average handle time, improved first-contact resolution, and increased agent productivity.*
 
-- **TL Workhub (RealPage)**  
+- **Customer Support Workhub (RealPage)**  
   Leadership dashboard for Team Leads, consolidating Salesforce case data for backlog management, risk governance, and coaching.  
   *Impact: Faster identification of critical cases, reduced reliance on spreadsheets, improved leadership decisions.*
 
@@ -30,8 +30,14 @@ This portfolio is designed to:
   Combines technical indicators with dynamic support/resistance levels to identify trade setups across multiple pairs. It implements two distinct models:
   Precision Entry Model – strict, high‑conviction signals using EMA, candle confirmation, and volume filters with tighter risk/reward ratios.
   Adaptive Entry Model – looser tolerance signals with relaxed volume rules, designed to capture more opportunities while maintaining structured risk controls.
-  The system fetches live market data from Binance, evaluates conditions in real time, and sends formatted alerts to Discord via webhook integration. Backtesting modules are included to measure performance metrics such as Sharpe ratio, drawdown, profit factor, and win rate across different strategies.
+  The system fetches live market data from Binance, evaluates conditions in real time, and sends formatted alerts to Discord via webhook integration. Backtesting modules are included to measure performance metrics such    as Sharpe ratio, drawdown, profit factor, and win rate across different strategies.
+  *Impact: Automated Crypto Trading Signals with high win rate %.*
 
+- **Work Time Bot (Personal Project)**  
+  Case Time Bot is a Teams tool for tracking how much active work agents spend on each support case.
+  Agents start or switch a timer with /case <number>, record non-case time with /offline <reason>, and end their shift   with /stop.
+  It totals repeated sessions by case and date, helping identify typical effort and which cases take longer.
+  *Impact: Provides accurate, case-level effort data so we can compare workload and complexity using evidence instead of assumptions.*
 ---
 
 ## 🛠️ Skills & Tools
